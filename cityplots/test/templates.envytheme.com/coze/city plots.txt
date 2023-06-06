@@ -1,0 +1,10 @@
+city plots 
+1- banner
+2-About us
+3-app
+4-innvation of Real estate
+5-vision and misson
+6-Team member 
+7-blog post 
+8- faq 
+9- footer

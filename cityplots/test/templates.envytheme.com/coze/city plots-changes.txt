@@ -1,0 +1,20 @@
+city plots sections changes
+
+1-footer (checking)
+
+2-side-bar (checking)
+
+3-thankyou page
+
+4-all button url
+
+5-index(team mates)
+
+6- responsive
+
+7-index (app link)
+
+8-Abouts us (TESTIMONIALS img)
+
+    <a href="mailto:contactus@tvsemerald.com"><span>info@cityplots.in</span></a>
+

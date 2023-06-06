@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 May 2023 11:07:45 at https://templates.envytheme.com/coze/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://templates.envytheme.com/coze/default/index.html -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:09:17	Error: 	"Not Found" (404) at link https://templates.envytheme.com/coze/default/assets/fonts/remixicon.svg?t=1590207869815 (from https://templates.envytheme.com/coze/default/assets/css/remixicon.css)
+11:09:17	Error: 	"Not Found" (404) at link https://templates.envytheme.com/coze/default/assets/css/owl.video.play.png (from https://templates.envytheme.com/coze/default/assets/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 303 links scanned, 300 files written (17890173 bytes overall) [14312823 bytes received at 155574 bytes/sec], 4763916 bytes transferred using HTTP compression in 92 files, ratio 19%, 50.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
